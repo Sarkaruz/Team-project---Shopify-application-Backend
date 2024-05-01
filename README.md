@@ -1,7 +1,7 @@
-# Team project "E-bay" Backend application
+# Team project "E-bay" Backend application:
 Final team project of intensive bootcamp Java backend developer - Green Fox/Codecool. In a five-week intensive bootcamp, four people worked together according to the Scrum methodology to create a backend web application for a marketplace.
 
-#  Implemented features tools and technologies
+#  Implemented features, tools and technologies:
 - **User Registration with Email Verification:** Users can sign up using their username and verify their account via email.
 - **User Authentication with Spring Security:** Secure user authentication with roles, access tokens, and refresh tokens.
 - **Integration with Stripe for Online Payments:** Enabling online payments with Stripe and automated invoice generation.
@@ -16,7 +16,7 @@ Final team project of intensive bootcamp Java backend developer - Green Fox/Code
 - **Endpoint Logs:** Logging endpoint activities for tracking and debugging.
 - **Watchdog:** VIP user can set up a watchdog. 
 
-# Enviroment variables
+# Enviroment variables:
 - **for MySQL database:**
 
 DB_PASSWORD;
