@@ -1,5 +1,5 @@
 # Team project "E-bay" Backend application:
-Final team project of intensive bootcamp Java backend developer - Green Fox/Codecool. In a five-week intensive bootcamp, four people worked together according to the Scrum methodology to create a backend web application for a marketplace.
+Final team project of intensive bootcamp Java backend developer - Green Fox/Codecool. In a five-week, four people worked together according to the Scrum methodology to create a backend web application for a marketplace.
 
 #  Implemented features, tools and technologies:
 - **User Registration with Email Verification:** Users can sign up using their username and verify their account via email.
